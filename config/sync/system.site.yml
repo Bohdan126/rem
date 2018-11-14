@@ -1,0 +1,14 @@
+uuid: 7f8e40b5-48e6-4458-ab5b-e9c45facb2b5
+name: Rem
+mail: rem@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
